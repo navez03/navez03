@@ -13,6 +13,7 @@ Currently deepening my knowledge in software engineering, distributed systems, a
 ### Tech I work with
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-E6F1FB?style=flat&logo=typescript&logoColor=185FA5)
+![JavaScript](https://img.shields.io/badge/JavaScript-FAEEDA?style=flat&logo=javascript&logoColor=854F0B)
 ![Java](https://img.shields.io/badge/Java-FAECE7?style=flat&logo=openjdk&logoColor=993C1D)
 ![Python](https://img.shields.io/badge/Python-EAF3DE?style=flat&logo=python&logoColor=3B6D11)
 ![Kotlin](https://img.shields.io/badge/Kotlin-EEEDFE?style=flat&logo=kotlin&logoColor=534AB7)
