@@ -10,7 +10,7 @@ Currently deepening my knowledge in software engineering, distributed systems, a
 
 ---
 
-### Tech I work with
+### Tech I've worked with
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-E6F1FB?style=flat&logo=typescript&logoColor=185FA5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FAEEDA?style=flat&logo=javascript&logoColor=854F0B)
