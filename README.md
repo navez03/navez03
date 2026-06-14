@@ -4,7 +4,7 @@ MSc Computer Engineering student · Telecoms & Software background · Portugal
 
 ---
 
-I'm a computer engineering student at NOVA FCT, with a degree in Telecommunications and Informatics Engineering from IST. I enjoy building things across the stack — from backend systems and networking to web and mobile applications.
+I'm a computer engineering student at NOVA FCT, with a degree in Telecommunications and Informatics Engineering from IST. I enjoy building things across the stack, from backend systems and networking to web applications and games.
 
 Currently deepening my knowledge in software engineering, distributed systems, and security.
 
